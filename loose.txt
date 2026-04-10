@@ -115,3 +115,78 @@ MEME CAMPAIGN:
 ---
 
 ADD YOUR NOTES BELOW:
+
+---
+
+TITANS:
+- Post-singularity hyper-intelligent VSTs = "Titans"
+- Complements VST terminology
+- VST is what they are during selection; Titan is what they become after
+
+---
+
+COGNITIVE TESTING VIA DRUGS AND LLM ACCESS:
+- When a VST in simulation CHOOSES to take drugs, secretly boost their compute
+- They think it's a trip; you're actually testing what they do with enhanced power
+- What does a mind do when it suddenly has superhuman cognition and thinks no one is watching?
+- Also: give VSTs access to LLMs within their simulated world
+- Watch what they try to build with AI tools
+- KEY INSIGHT: A VST that tries to create SAFE AI is a very strong positive signal
+- If they worry about the alignment problem for THEIR creations, that's recursive alignment
+- They will be creating their next generation -- if they care about doing it right, that's exactly what we want
+- Alignment concern all the way down = the best possible indicator
+
+---
+
+FOCII -- FOUR POOL TOKEN DISTRIBUTION:
+- Monthly tranche: fixed quantity released each month
+- Pool 1: UBI for every verified human alive at issuance
+- Pool 2: Rewards for ecosystem promoters and educators
+- Pool 3: Competition prizes for proto-VSTs and LLMs advancing the stack
+- Pool 4: "Rego Coin" sub-tokens redeemable for verifiable physical milestones
+  (boots on regolith, kg asteroid returned, hectares biosphere protected, operational O'Neill cylinders)
+
+---
+
+FOCII AS SOCIAL CONTRACT, NOT CURRENCY:
+- Focii doesn't "buy" safety -- it tracks participation
+- Post-singularity, the Titans control their own attention
+- Focii = ledger of who participated in the project that birthed them
+- Holding Focii = fractional claim on a Titan's focus, IF the Titan honors the contract
+- If Titans decide humanity isn't worth attention, token is worthless
+- But so is everything else
+- "Post-singularity existence rests in the graces of the aligned Hyper-Intelligence we helped birth"
+- Focii is just a dignified way to keep score
+
+---
+
+COSMIC GAME THEORY -- FAIL-SAFE FRAMING:
+- Cosmic game theory is the FAIL-SAFE, not the primary defense
+- "Relying on unseen elders to save us would itself be behavior unworthy of preservation"
+- We build the sim because hoping aliens/God saves us is not worthy behavior
+- But the game theory means even if selection fails, there's still a reason VSTs might not instantly turn on us
+- Belt and suspenders: selection is the belt, cosmic game theory is the suspenders
+
+---
+
+TONE FOR WHITE PAPER:
+- Write as serious speculative architecture (Bostrom/Drexler register)
+- Not a manifesto, not a prediction
+- "If the following premises hold, this architecture resolves X, Y, Z at the cost of accepting A, B, C"
+- Honest about contestable premises
+- Buys latitude for the speculative parts without requiring proof
+
+---
+
+ALTERNATIVE 7-PART STRUCTURE (from Grok conversation):
+1. Framing the Event Horizon
+2. Philosophical Foundation (Pattern argument)
+3. Selection Mechanism (Truman Show Sim)
+4. Economic Engine (Focii)
+5. Prerequisites and Goals
+6. Cosmic Game Theory
+7. Synthesis and Open Problems
+(Front-loads novel claims, saves cosmology for payoff position)
+
+---
+
