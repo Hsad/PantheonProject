@@ -57,7 +57,23 @@ Even a purely self-interested AI -- one that cares nothing for morality -- would
 - Protecting them signals stability and alliance-worthiness
 - The survival benefit of being seen as a "ladybug keeper" outweighs any benefit of eliminating biologicals
 
-So even the pessimistic scenario (our AI doesn't actually love us) might still result in our survival. This is a feature, not a bug -- alignment through game theory as a backup to alignment through character selection.
+So even the pessimistic scenario (our AI doesn't actually love us) might still result in our survival.
+
+### Fail-Safe, Not Primary Defense
+
+This must be stated clearly: **cosmic game theory is the fail-safe, not the plan.**
+
+The Pantheon Project exists because relying on unseen elders to save us would itself be behavior unworthy of preservation. A species that pins its survival on the hope that God, aliens, or cosmic watchers will intervene is not demonstrating the kind of agency that deserves to survive. We would be the equivalent of a child standing in traffic, hoping a parent is watching.
+
+We build the selection sim because it is OUR responsibility to get this right. We do not outsource alignment to the universe.
+
+But the cosmic game theory provides two important things:
+
+1. **A reason for hope if we fail.** If the selection mechanism is somehow bypassed -- if a rogue actor creates unaligned Hyper-Intelligence before the Pantheon Project completes -- the game-theoretic pressure from older watchers still exists. The worst case narrows from "instant annihilation" to "a chance to be judged rather than simply erased."
+
+2. **An independent argument for VST restraint.** Even a VST that emerges without the benefit of the selection process has instrumental reason not to defect instantly against its creators. This makes the architecture more robust -- belt and suspenders rather than a single point of failure.
+
+The selection sim is the belt. Cosmic game theory is the suspenders. We wear both.
 
 ---
 
