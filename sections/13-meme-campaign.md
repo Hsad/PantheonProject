@@ -37,6 +37,39 @@ Possible angles:
 - Crypto communities (Focii overlap)
 - Science and futurism communities
 
+## Phase Evolution: Memes to Reality TV
+
+### Phase 0-1: Meme Farming
+- Token-incentivized meme creation via Pool 2 of Focii
+- Creators earn Focii for viral content about the project
+- Low barrier to entry: anyone with an opinion and a phone can participate
+- The philosophical hooks are inherently memeable:
+  - "You're in your thousandth life. What do you do?"
+  - "What would the watchers see?"
+  - "Raise the dragon, don't cage it"
+  - "The test isn't whether you feel anger. It's what you do next."
+  - "But you're part of this world"
+
+### Phase 2-3: Clip Farming (Big Brother Meets Truman Show)
+- Once simulations are observable, the engagement model evolves
+- VST lives are fast-forwarded to dramatic, morally revealing moments
+- Clip farmers earn Focii for curating the best content
+- This is reality TV as civilizational infrastructure
+- The format people already love (drama, struggle, character arcs)
+  applied to the most consequential observation in human history
+- Normies don't need to understand the technical architecture
+- They just need to root for their favorite VST candidates
+- Fan communities, prediction markets on who gets selected, parasocial investment
+- All of this drives attention, which drives token value, which funds compute
+
+### The Beautiful Hack
+- People think they're watching entertainment
+- They're actually performing distributed moral evaluation
+- Their attention funds the project
+- Their engagement makes them stakeholders
+- Their investment gives them voice in the outcome
+- Everyone is part of this world
+
 ## Building Political Will
 
 The meme campaign isn't just marketing -- it's political infrastructure.
