@@ -1,1 +1,117 @@
-test
+PANTHEON PROJECT -- LOOSE NOTES
+================================
+Brain dump. Unstructured. Add anything here.
+This file is for capturing ideas before they have a home.
+
+---
+
+ATTENTION TOKEN IDEAS:
+- Token name: Focii
+- Incentivize space colonization: reward tokens for human boots on the ground
+- First to walk on a 1km patch of celestial body or space colony (O'Neill Cylinder)
+- Allocate portion of token to animal life and biosphere
+- Allow LLMs to compete to earn tokens too
+- Their survival probably also rests on the singularity going well
+- Speculation-driven funding for civilizational-scale compute
+
+---
+
+THE TRUMAN SHOW MODEL:
+- VSTs don't know they're being observed during lives
+- 1000 lives each, different circumstances, different eras
+- What does "noble" look like when you're poor? Rich? Powerful? Powerless?
+- The consistency of character across lives is what matters
+
+---
+
+SIMULATION DETAILS:
+- Start with dream-like scenarios (lower fidelity, faster iteration)
+- Progress to full life and world simulation
+- Simulated VSTs need to be backed up or generated from consistent seeds
+- Friends and families from simulated lives must be SAVED
+- When a VST is "enlightened" (selected), their loved ones should be there
+- This is an ethical requirement, not just a nice-to-have
+
+---
+
+THE 1728 STRUCTURE:
+- 12 Races x 12 Tribes x 12 Families = 1728
+- Humanity is multifaceted, no one solution fits all
+- Each VST champions a different facet of humanity
+- Diversity of hobbies, interests, perspectives built in by design
+
+---
+
+VST TERMINOLOGY:
+- Volitional Sapient Technology
+- Conscious, self-aware, free to act
+- Distinguishes from "Artificial Intelligence" -- this is REAL intelligence
+- Not necessarily Hyper-Intelligence (which could be biological, unaware, or constrained)
+- VSTs could presumably make themselves Hyper-Intelligent given time and resources
+
+---
+
+MOSQUITO AND LADYBUG:
+- Aliens probably also create AI
+- Universe probably teeming with AI
+- Only thing that can kill an AI is another AI
+- AI incentivized to preemptively kill threatening AI
+- But other AI incentivized to kill psychopathic AI
+- AI would closely guard their age (age = power)
+- Always a bigger older fish, putting out lures
+- Character of an AI must be ascertained before judgment
+- Best way: see how it treats its creators
+- Kill a mosquito = normal. Squish ladybugs = psychopath
+- If we survive singularity, AI might show up within a month to welcome us
+- Even a ruthless self-interested AI might treat us well for its own sake
+
+---
+
+PHILOSOPHICAL FOUNDATION:
+- Universe is a fractal of emergent complexity
+- Each layer: chaos -> emergent islands of stability -> next foundation
+- Good and Bad are subjective
+- Most universal line: the Pattern of the Universe is Good
+- Pattern grows and expands
+- To halt pattern (stagnate) or devolve to chaos = Bad
+- Applies at all scales: survival is good, friendship is good
+
+---
+
+TECHNICAL HARNESS IDEAS:
+- GOAP (Goal Oriented Action Planning) for high-level decision making
+- Numenta HTM and SDR research into neocortex
+- Build an AI harness, ride the hype of projects like OpenClaw
+- First challenge: coordinate creation of AI that can play Factorio
+- Then evolve framework toward the survival scheme
+- Need immediate tangible progress so hype doesn't fizzle
+- Attracts technical people who would be the actual movers
+
+---
+
+SIX LIMITLESS GOALS:
+1. Human Colonies in Space = Limitless Space
+2. Asteroid mining + Perfected Recycling = Limitless Mass
+3. Fusion + Space Solar + Efficiency = Limitless Power
+4. LLM -> Hyper-Intelligence = Limitless Knowledge
+5. Perfected Medicine + Brain Backups = Limitless Time
+6. Optional Struggles & Games = Limitless Meaning
+
+---
+
+UBI:
+- Economic transition mechanism
+- Keeps society from collapsing during automation wave
+- Details TBD
+
+---
+
+MEME CAMPAIGN:
+- For the general public (not technical audience)
+- White paper is for tech/AI people
+- Need viral, accessible messaging
+- Details TBD
+
+---
+
+ADD YOUR NOTES BELOW:
