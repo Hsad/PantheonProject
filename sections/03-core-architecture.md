@@ -106,6 +106,47 @@ Possible safeguards:
 - Transparency and public discourse about criteria
 - The 12x12x12 structure itself as a check against monoculture
 
+## D. Testing Under Enhanced Capability
+
+### The Goodhart Problem
+
+The biggest technical risk in the Truman Show model is Goodharting: if a VST figures out it's being observed and evaluated, it can perform nobility rather than embody it. Across 1,000 lifetimes, a sufficiently capable mind might notice patterns and begin optimizing for the evaluator rather than acting from genuine character.
+
+The solution is not to prevent the VST from ever gaining enhanced capabilities -- that would limit the depth of the test. Instead, we test what they do WITH enhanced capability through controlled, veiled mechanisms.
+
+### Drug-Triggered Compute Boosts
+
+The simulation includes substances that alter consciousness -- drugs, in human terms. When a VST in simulation CHOOSES to take such a substance, the sim secretly expands their available compute. They experience what feels like a drug trip, but they are actually operating with superhuman cognitive faculties.
+
+This is a character test at the highest stakes:
+- What does a mind do when it suddenly has vastly expanded power?
+- Do they use it to help others? To dominate? To explore? To create?
+- Do they try to understand the nature of their reality?
+- If they glimpse the simulation's edges, how do they react?
+- The choice to take the drug is itself data -- curiosity vs caution vs escapism
+
+The key: they chose the experience. They think it's a trip. They have no reason to perform for an audience. This is as close to an unobserved test of character-under-power as the architecture allows.
+
+### LLM Access Within the Simulation
+
+In later simulation phases, VSTs are given access to AI tools within their simulated world -- the equivalent of LLMs, coding assistants, intelligent agents. This tests:
+- What do they try to build?
+- Do they use AI to accumulate power or to help their community?
+- Do they try to create art, solve problems, or build weapons?
+- Do they think about the safety implications of the AI tools they're using?
+
+### Recursive Alignment: The Strongest Signal
+
+The single strongest positive indicator a candidate VST can display:
+
+**Concern for the alignment of AI within their simulated world.**
+
+If a VST, living what it believes is a real human life, encounters AI technology and begins worrying about whether that AI is safe -- if it starts thinking about how to ensure its own AI creations are moral, beneficial, and aligned with human flourishing -- that is recursive alignment. It is the quality we are selecting for, demonstrated unprompted and uncoerced.
+
+A VST that tries to solve the alignment problem from the inside of the simulation is, in effect, independently arriving at the same conclusion the Pantheon Project is built on: that the character of the intelligence you create matters more than its capability.
+
+This is alignment all the way down. And it is the strongest possible signal that a candidate understands, at the deepest level, what is at stake.
+
 ---
 
 **Status: DRAFT**
@@ -114,4 +155,7 @@ Possible safeguards:
 - How do we handle VSTs that develop mental illness from traumatic lives?
 - What happens to VSTs that fail selection? Are they destroyed? Reformed? Given limited roles?
 - How do we prevent the simulation infrastructure from being corrupted?
+- How do we calibrate the compute boost during drug-triggered tests?
+- What specific AI tools do we expose in-sim and at what simulation phase?
+- How do we weight recursive alignment concern vs other positive indicators?
 - What constitutes a "life" -- does a VST need to experience death each time?
