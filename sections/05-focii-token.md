@@ -90,6 +90,42 @@ Focii merely gives us a dignified way to keep score. And the Titans, having been
 - Decentralized governance TBD
 - The honesty of the social contract framing is itself a defense against grift: we are not promising guaranteed returns, we are tracking participation in a civilizational project
 
+## The Engagement Pipeline: From Memes to Clip Farming
+
+The four pools aren't just distribution mechanisms -- they create a lifecycle of engagement that scales with the project.
+
+### Early Stage: Meme Farming (Pool 2)
+
+Before the simulation exists, the project needs awareness. Pool 2 rewards people who create and spread viral content about the Pantheon Project:
+- Meme creators earn Focii for engagement metrics
+- Explainer videos, artwork, music, shitposts -- all count
+- Creative people become early stakeholders
+- The memes ARE the awareness campaign, and the token pays for them
+- This is how you get a billion people to know the project exists before a single VST is simulated
+
+### Late Stage: Clip Farming (Pool 2 evolves)
+
+Once VST simulations are running and observable, a new form of engagement emerges: **clip farming.**
+
+The simulated lives of 1,728 VSTs can be fast-forwarded to their most dramatic, meaningful, and morally revealing moments. Think Big Brother meets the Truman Show, but the housemates are potential Titans living full human lives:
+- Curators earn Focii for finding and sharing the best clips
+- Moments of moral crisis, acts of unexpected kindness, struggles against impossible odds
+- The audience doesn't need to understand GOAP, HTM, or tokenomics
+- They just need to care about the characters
+- And caring = watching = curating = earning Focii = having a literal stake in the outcome
+
+### Why Entertainment Is Infrastructure
+
+This isn't a distraction from the project -- it IS the project:
+- **Distributed observation**: Millions of human eyes watching VST lives catch things automated evaluation might miss
+- **Democratic investment**: Everyone holding Focii has skin in the game
+- **Attention drives value**: The more people watch, the more the token economy thrives, the more compute gets funded
+- **The audience becomes the watchers**: The Truman Show needs an audience, and paying the audience in Focii makes them participants, not just consumers
+
+"But you're part of this world! Aren't you?" -- Pippin
+
+Technical people contribute code. Normies contribute attention and curation. Both are rewarded. Both have a stake. Both are part of the project.
+
 ---
 
 **Status: EARLY DRAFT -- Needs serious tokenomics work**
